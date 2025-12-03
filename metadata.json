@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SocialAutoma",
+  "description": "An AI-powered agent for automating YouTube and Facebook content creation, trend analysis, and community engagement using Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
